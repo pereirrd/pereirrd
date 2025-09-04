@@ -2,9 +2,10 @@
 <h3 align="center">A backend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Inter Co](https://inter.co/)
-
 - 🌱 I’m currently learning **AI and cloud computing**
-
+- ⚡ Passionate about building **scalable and efficient systems**  
+- 🚀 Always learning, always improving
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodrigo-pereira-4949735b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-pereira-4949735b/" height="30" width="40" /></a>
