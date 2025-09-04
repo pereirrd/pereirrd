@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Pereira</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Inter Co](https://inter.co/)
 
-- 🌱 I’m currently learning **IA and cloud computing**
+- 🌱 I’m currently learning **AI and cloud computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
