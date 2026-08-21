@@ -10,7 +10,19 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/pereirrd/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a></td>
+    <td><a href="https://www.linkedin.com/in/pereirrd/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a></td>
+  </tr>
+</table>
+
+## My certifications:
+
+- 🚀 See my certifications on [Credly](https://www.credly.com/users/pereirrd/badges/credly)
+
+<table>
+  <tr>
+    <td><a href="https://www.credly.com/badges/e528a276-7907-4a26-b49b-70a10ee043fb" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="LinkedIn" height="50" width="50"/></a></td>
+    <td><a href="https://www.credly.com/badges/a6bcd232-6e4d-480b-b141-1790a8b299b8" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="LinkedIn" height="50" width="50"/></a></td>
+    <td><a href="https://www.credly.com/badges/65e82595-703a-4bcd-a5d3-125d4778ef08" target="_blank"><img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" alt="LinkedIn" height="50" width="50"/></a></td>
   </tr>
 </table>
 
