@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## Sponsor my open-source projects.
+## Sponsor my open-source projects:
 
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/pereirrd)
 
